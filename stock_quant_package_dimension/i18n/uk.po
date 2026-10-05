@@ -87,3 +87,14 @@ msgstr "Одиниці вимірювання ваги"
 #: model:ir.model.fields,help:stock_quant_package_dimension.field_stock_quant_package__volume_uom_id
 msgid "Packaging volume unit of measure"
 msgstr "Одиниця вимірювання об'єму пакування"
+
+#. module: stock_quant_package_dimension
+#: model:ir.model.fields,help:stock_quant_package_dimension.field_stock_quant_package__length_uom_id
+msgid "UoM for pack length, height, width (based on lenght UoM)"
+msgstr ""
+"Одиниця виміру довжини, висоти й ширини пакування (на основі ОВ довжини)"
+
+#. module: stock_quant_package_dimension
+#: model:ir.model.fields,help:stock_quant_package_dimension.field_stock_quant_package__volume
+msgid "volume"
+msgstr "обсяг"

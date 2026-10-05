@@ -73,3 +73,17 @@ msgstr "Рядок конфігурації внутрішнього пакун�
 #: model:ir.model.fields,field_description:internal_stock_quant_package.field_stock_internal_package_config_line__stock_picking_type_id
 msgid "Stock Picking Type"
 msgstr "Тип комплектування"
+
+#. module: internal_stock_quant_package
+#: model:ir.model.fields,help:internal_stock_quant_package.field_stock_picking_type__empty_internal_package_on_transfer
+msgid ""
+"If set internal packages are emptied after the transfer or when products are"
+" put in pack."
+msgstr ""
+"Якщо задано, внутрішні пакування спорожнюються після переміщення або під час"
+" пакування товарів."
+
+#. module: internal_stock_quant_package
+#: model:ir.model,name:internal_stock_quant_package.model_stock_internal_package_config_line
+msgid "Internal Package Configuration Line"
+msgstr "Рядок конфігурації внутрішнього пакування"

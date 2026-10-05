@@ -38,3 +38,29 @@ msgstr "Скинути тип пакунка"
 #: model:ir.model.fields,field_description:stock_quant_package_product_packaging.field_stock_quant_package__single_product_qty
 msgid "Single Product Qty"
 msgstr "Кількість одного товару"
+
+#. module: stock_quant_package_product_packaging
+#: model:ir.model.fields,help:stock_quant_package_product_packaging.field_product_product__package_type_id
+#: model:ir.model.fields,help:stock_quant_package_product_packaging.field_product_template__package_type_id
+msgid ""
+"Defines a 'default' package type for this product to be applied on packages "
+"without product packagings and on put-away computation based on package type"
+" for product not in a package"
+msgstr ""
+"Визначає «типове» пакування для цього товару, яке застосовується до пакунків"
+" без пакування товару та під час розрахунку розміщення за типом пакування "
+"для товару, що не знаходиться в пакунку."
+
+#. module: stock_quant_package_product_packaging
+#: model:ir.model.fields,help:stock_quant_package_product_packaging.field_stock_quant_package__product_packaging_id
+msgid ""
+"Packaging of the product, used for internal logisticstransfers, put-away "
+"rules, ..."
+msgstr ""
+"Пакування товару, що використовується для внутрішніх логістичних переміщень,"
+" правил розміщення тощо."
+
+#. module: stock_quant_package_product_packaging
+#: model:ir.model.fields,help:stock_quant_package_product_packaging.field_stock_quant_package__reset_package_type
+msgid "When set the package type will be reset on unpacking"
+msgstr "Якщо задано, тип пакування скидатиметься під час розпакування"
