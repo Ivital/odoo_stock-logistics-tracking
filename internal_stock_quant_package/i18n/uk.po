@@ -63,3 +63,13 @@ msgstr "Останнє оновлення ким"
 #: model:ir.model.fields,field_description:internal_stock_quant_package.field_stock_internal_package_config_line__write_date
 msgid "Last Updated on"
 msgstr "Останнє оновлення"
+
+#. module: internal_stock_quant_package
+#: model:ir.model.fields,field_description:internal_stock_quant_package.field_stock_picking_type__stock_internal_package_config_line_ids
+msgid "Stock Internal Package Config Line"
+msgstr "Рядок конфігурації внутрішнього пакунка запасів"
+
+#. module: internal_stock_quant_package
+#: model:ir.model.fields,field_description:internal_stock_quant_package.field_stock_internal_package_config_line__stock_picking_type_id
+msgid "Stock Picking Type"
+msgstr "Тип комплектування"

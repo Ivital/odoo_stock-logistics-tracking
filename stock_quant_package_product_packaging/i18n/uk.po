@@ -28,3 +28,13 @@ msgstr "Пакування товару"
 #: model:ir.model.fields,field_description:stock_quant_package_product_packaging.field_stock_quant_package__single_product_id
 msgid "Single Product"
 msgstr "Один товар"
+
+#. module: stock_quant_package_product_packaging
+#: model:ir.model.fields,field_description:stock_quant_package_product_packaging.field_stock_quant_package__reset_package_type
+msgid "Reset Package Type"
+msgstr "Скинути тип пакунка"
+
+#. module: stock_quant_package_product_packaging
+#: model:ir.model.fields,field_description:stock_quant_package_product_packaging.field_stock_quant_package__single_product_qty
+msgid "Single Product Qty"
+msgstr "Кількість одного товару"

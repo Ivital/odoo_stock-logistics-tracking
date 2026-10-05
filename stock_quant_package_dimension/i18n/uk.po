@@ -82,3 +82,8 @@ msgstr "Одиниця вимірювання ваги"
 #: model:ir.model.fields,field_description:stock_quant_package_dimension.field_stock_quant_package__weight_uom_id
 msgid "Weight Units of Measure"
 msgstr "Одиниці вимірювання ваги"
+
+#. module: stock_quant_package_dimension
+#: model:ir.model.fields,help:stock_quant_package_dimension.field_stock_quant_package__volume_uom_id
+msgid "Packaging volume unit of measure"
+msgstr "Одиниця вимірювання об'єму пакування"
