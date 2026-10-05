@@ -52,3 +52,33 @@ msgstr "довжина"
 #: model:ir.model.fields,help:stock_quant_package_dimension.field_stock_quant_package__width
 msgid "width"
 msgstr "ширина"
+
+#. module: stock_quant_package_dimension
+#: model:ir.model.fields,field_description:stock_quant_package_dimension.field_stock_quant_package__length_uom_id
+msgid "Dimensions Units of Measure"
+msgstr "Розмірні одиниці вимірювання"
+
+#. module: stock_quant_package_dimension
+#: model:ir.model.fields,field_description:stock_quant_package_dimension.field_stock_quant_package__length_uom_name
+msgid "Length unit of measure label"
+msgstr "Мітка одиниці вимірювання довжини"
+
+#. module: stock_quant_package_dimension
+#: model:ir.model.fields,field_description:stock_quant_package_dimension.field_stock_quant_package__volume_uom_name
+msgid "Volume Unit of Measure label"
+msgstr "Мітка одиниці вимірювання об'єму"
+
+#. module: stock_quant_package_dimension
+#: model:ir.model.fields,field_description:stock_quant_package_dimension.field_stock_quant_package__volume_uom_id
+msgid "Volume Units of Measure"
+msgstr "Одиниці вимірювання об'єму"
+
+#. module: stock_quant_package_dimension
+#: model:ir.model.fields,help:stock_quant_package_dimension.field_stock_quant_package__weight_uom_id
+msgid "Weight Unit of Measure"
+msgstr "Одиниця вимірювання ваги"
+
+#. module: stock_quant_package_dimension
+#: model:ir.model.fields,field_description:stock_quant_package_dimension.field_stock_quant_package__weight_uom_id
+msgid "Weight Units of Measure"
+msgstr "Одиниці вимірювання ваги"

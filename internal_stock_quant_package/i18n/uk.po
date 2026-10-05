@@ -32,3 +32,34 @@ msgstr "Відображувана назва"
 #: model:ir.model.fields,field_description:internal_stock_quant_package.field_stock_internal_package_config_line__empty
 msgid "Empty"
 msgstr "Порожній"
+
+#. module: internal_stock_quant_package
+#: model:ir.model.fields,field_description:internal_stock_quant_package.field_stock_internal_package_config_line__delivery_carrier_id
+msgid "Delivery Carrier"
+msgstr "Перевізник доставки"
+
+#. module: internal_stock_quant_package
+#: model:ir.model.fields,field_description:internal_stock_quant_package.field_stock_picking__empty_internal_package_on_transfer
+#: model:ir.model.fields,field_description:internal_stock_quant_package.field_stock_picking_type__empty_internal_package_on_transfer
+msgid "Empty Internal Package On Transfer"
+msgstr "Спорожнювати внутрішній пакунок під час переміщення"
+
+#. module: internal_stock_quant_package
+#: model_terms:ir.ui.view,arch_db:internal_stock_quant_package.stock_quant_package_search_view
+msgid "Internal"
+msgstr "Внутрішній"
+
+#. module: internal_stock_quant_package
+#: model:ir.model.fields,field_description:internal_stock_quant_package.field_stock_quant_package__is_internal
+msgid "Internal use?"
+msgstr "Для внутрішнього використання?"
+
+#. module: internal_stock_quant_package
+#: model:ir.model.fields,field_description:internal_stock_quant_package.field_stock_internal_package_config_line__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: internal_stock_quant_package
+#: model:ir.model.fields,field_description:internal_stock_quant_package.field_stock_internal_package_config_line__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"

@@ -18,3 +18,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_quant_package_product_packaging.field_product_template__package_type_id
 msgid "Package type"
 msgstr "Тип пакування"
+
+#. module: stock_quant_package_product_packaging
+#: model:ir.model.fields,field_description:stock_quant_package_product_packaging.field_stock_quant_package__product_packaging_id
+msgid "Product Packaging"
+msgstr "Пакування товару"
+
+#. module: stock_quant_package_product_packaging
+#: model:ir.model.fields,field_description:stock_quant_package_product_packaging.field_stock_quant_package__single_product_id
+msgid "Single Product"
+msgstr "Один товар"

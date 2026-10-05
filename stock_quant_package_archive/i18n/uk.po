@@ -23,3 +23,8 @@ msgstr "Активний"
 #: model_terms:ir.ui.view,arch_db:stock_quant_package_archive.view_quant_package_form
 msgid "Archived"
 msgstr "Архівовано"
+
+#. module: stock_quant_package_archive
+#: model_terms:ir.ui.view,arch_db:stock_quant_package_archive.quant_package_search_view
+msgid "Archived or Active"
+msgstr "Архівний або активний"
